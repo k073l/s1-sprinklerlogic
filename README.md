@@ -17,3 +17,7 @@ Big Sprinkler item is already in the game, but it doesn't do anything. This mod 
     - For alternate/alternate beta use Mono
 4. Install S1API.Forked
 5. Launch the game
+
+## Credits
+- Bars and S1API contributors for S1API.Forked
+- TVGS for adding the Big Sprinkler item to the game (albeit non-functional), also item icons used in this mod's icon
